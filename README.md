@@ -14,6 +14,7 @@ En esta versión el clima lo toma del servicio meteorológico de Argentina, sino
 Cambia el fondo de pantalla si es de día o de noche. si se deliza hacia la derecha, muestra la pantalla de Configuación, </br>
 La lista de opciones de la pantalla de Configuración funcionan  todas. Gran trabajo de fbiego ( https://github.com/fbiego/esp32-c3-mini.  )</br>
 La imagen ConfiguracionTRGB.gif muestra las opciones de Arduino IDE 2.2.1 >Tools </br>
+https://github.com/fbiego/esp32-c3-mini/blob/main/c3-screens.png?raw=true
 
 
 
