@@ -13,7 +13,11 @@ la primera vez espera 3 minutos , y si no se conecta al WIFI de su casa, en su d
 </br>
 En esta versión el clima lo toma del servicio meteorológico de Argentina, sino no encuentra ninguna localidad de Argentina , reintenta cada 10 segundos. Si encuentra la localidad cada 2 horas vuelve a leer el clima.</br>
 Cambia el fondo de pantalla si es de día o de noche. </br>
+El botón Apagar ejecuta  deepSleep(), para "despertar" se toca la pantalla </br>
 Si se desliza hacia la derecha, muestra la pantalla de Configuración, </br>
+![Configuracion](https://github.com/edmoreyra/lilygo-rgb_mirelojito/blob/main/ConfiguracionESP32S3TRGBround.png)
+</br>
+
 La lista de opciones de la pantalla de Configuración funcionan  todas. Gran trabajo de fbiego ( https://github.com/fbiego/esp32-c3-mini.  )</br>
 El Rango de brillo va de 1 a 15 con el (backlightPin = EXAMPLE_PIN_NUM_BK_LIGHT) </br>
 El scroll circular activa y desactiva onScrollMode() </br>
