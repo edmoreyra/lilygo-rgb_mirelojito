@@ -4,6 +4,8 @@ Ante todo agradezco a fablabnbg y fbiego que sirvieron de inspiración para mi p
 de la  pruebas iniciales en el dev kit LilyGO T-RGB round.  </br>
 Sugiero primero ver </br>
 https://github.com/Xinyuan-LilyGO/T-RGB/ </br>
+y </br>
+https://github.com/fablabnbg/TRGBArduinoSupport</br>
 y luego </br>
 https://github.com/fbiego/esp32-c3-mini </br>
 de este último tomé solo brevemente la primer pantalla y la pantalla de setting. </br>
