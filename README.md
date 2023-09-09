@@ -6,7 +6,7 @@ Sugiero primero ver </br>
 https://github.com/Xinyuan-LilyGO/T-RGB/ </br>
 y luego </br>
 https://github.com/fbiego/esp32-c3-mini </br>
-de este último tomé solo brevemente la primer pantalla y la pantalla de setting. 
+de este último tomé solo brevemente la primer pantalla y la pantalla de setting. </br>
 El wifi lo configuro con WiFiManager el AP se muestra con el nombre de ConnectMiRelojitoTRGB,
 la primera vez espera 3 minutos , y si no se conecta al WIFI de su casa, en su dispositivo movil ( tablet. cel, o notebook) aparece el  AP ConnectMiRelojitoTRGB y desde ese formulario  seleccionan el WIFI de su casa.</br>
 
