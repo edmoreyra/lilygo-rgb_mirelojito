@@ -14,7 +14,9 @@ En esta versión el clima lo toma del servicio meteorológico de Argentina, sino
 Cambia el fondo de pantalla si es de día o de noche. </br>
 Si se desliza hacia la derecha, muestra la pantalla de Configuración, </br>
 La lista de opciones de la pantalla de Configuración funcionan  todas. Gran trabajo de fbiego ( https://github.com/fbiego/esp32-c3-mini.  )</br>
-El Rango de brillo va de 1 a 15</br>
-El scroll circular 
+El Rango de brillo va de 1 a 15 con el (backlightPin = EXAMPLE_PIN_NUM_BK_LIGHT) </br>
+El scroll circular activa y desactiva onScrollMode() </br>
+Screen Timeout utiliza el deepSleep() </br>
+El nivel de bateria toma el  batteryPin = BAT_VOLT_PIN </br>
 La imagen ConfiguracionTRGB.gif muestra las opciones de Arduino IDE 2.2.1 >Tools </br>
 
