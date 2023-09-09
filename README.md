@@ -15,7 +15,3 @@ Cambia el fondo de pantalla si es de día o de noche. si se deliza hacia la dere
 La lista de opciones de la pantalla de Configuración funcionan  todas. Gran trabajo de fbiego ( https://github.com/fbiego/esp32-c3-mini.  )</br>
 La imagen ConfiguracionTRGB.gif muestra las opciones de Arduino IDE 2.2.1 >Tools </br>
 
-
-![image](https://github.com/edmoreyra/lilygo-rgb_mirelojito/assets/18722695/c43b9d1a-3732-497c-a1a8-019da8ae2f5a)
-
-
