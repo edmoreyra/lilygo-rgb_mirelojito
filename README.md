@@ -1,8 +1,8 @@
 # lilygo-ESP32S3_t_rgb_round_mirelojito
 Basado en fablabnbg/TRGBArduinoSupport y fbiego / esp32-c3-mini
 Ante todo agradezco a fablabnbg y fbiego que sirvieron de inspiración para mi primer desarrollo
-de la  pruebas iniciales en el dev kit LilyGO T-RGB round.  
-Sugiero primero ver 
+de la  pruebas iniciales en el dev kit LilyGO T-RGB round.  </br>
+Sugiero primero ver </br>
 https://github.com/Xinyuan-LilyGO/T-RGB/
 y luego 
 https://github.com/fbiego/esp32-c3-mini
