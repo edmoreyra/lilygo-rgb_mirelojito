@@ -19,5 +19,6 @@ El scroll circular activa y desactiva onScrollMode() </br>
 Screen Timeout utiliza el deepSleep() </br>
 El nivel de bateria toma el  batteryPin = BAT_VOLT_PIN </br>
 </br>
+La imagen muestra las opciones de Arduino IDE 2.2.1 >Tools</br>
 ![La imagen muestra las opciones de Arduino IDE 2.2.1 >Tools](./ConfiguracionTRGB.gif)</br>
 
