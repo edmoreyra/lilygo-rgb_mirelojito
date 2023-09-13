@@ -13,6 +13,9 @@ El wifi lo configuro con WiFiManager el AP se muestra con el nombre de ConnectMi
 la primera vez espera 3 minutos , y si no se conecta al WIFI de su casa, en su dispositivo movil ( tablet, celular, o notebook) aparece el  AP ConnectMiRelojitoTRGB y desde ese formulario  selecciona el WIFI que desea.</br>
 ![Primer pantalla ](https://github.com/edmoreyra/lilygo-rgb_mirelojito/blob/main/FrenteESP32S3TRGBround.png)
 </br>
+![Primer pantalla ](https://github.com/edmoreyra/lilygo-rgb_mirelojito/blob/main/FrenteESP32S3TRGBroundNoche.png)
+</br>
+
 En esta versión el clima lo toma del servicio meteorológico de Argentina, sino no encuentra ninguna localidad de Argentina , reintenta cada 10 segundos. Si encuentra la localidad cada 2 horas vuelve a leer el clima.</br>
 Cambia el fondo de pantalla si es de día o de noche. </br>
 El botón Apagar ejecuta  deepSleep(), para "despertar" se toca la pantalla </br>
